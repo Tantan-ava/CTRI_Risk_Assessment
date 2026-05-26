@@ -52,9 +52,8 @@ CTRI贸易风险 + PRS支付风险，层间联动权重动态调整，输出0-10
 CTRI_Risk_Assessment/
 ├── etri_v3.html                    # 主程序（单文件完整应用）
 ├── README.md                       # 项目文档
-├── docs/
-│   ├── METHODOLOGY.md              # 方法论技术文档
-│   └── PROMPTS.md                  # Prompt Engineering核心指令
+├── METHODOLOGY.md                  # 方法论技术文档
+├── PROMPTS.md                      # Prompt Engineering核心指令
 ├── data/
 │   ├── 地缘制裁.csv                # OFAC/BIS制裁事件数据
 │   ├── 支付数据.csv                # 拒付率/支付方式数据
@@ -71,8 +70,8 @@ CTRI_Risk_Assessment/
 
 ## 深入了解
 
-- 📖 [方法论技术文档](docs/METHODOLOGY.md) — EPIC/FCE-AHP/贝叶斯GVAR/DTF层间联动完整说明
-- 🤖 [Prompt Engineering](docs/PROMPTS.md) — 5个核心Prompt，展示AI驱动复杂系统设计能力
+- 📖 [方法论技术文档](METHODOLOGY.md) — EPIC/FCE-AHP/贝叶斯GVAR/DTF层间联动完整说明
+- 🤖 [Prompt Engineering](PROMPTS.md) — 5个核心Prompt，展示AI驱动复杂系统设计能力
 
 ## License
 
