@@ -1,0 +1,23 @@
+指标,数值,单位,日期,数据来源
+数据本地化要求-越南,严格,文本,2026-01-01,Vietnam Data Law 2025/QH15
+数据本地化要求-印尼,严格(金融/电信/健康/能源),文本,2026-04,Indonesia PDP Law
+数据本地化要求-泰国,无明确要求但偏好本地,文本,2026-04,ASEAN Data Protection
+数据本地化要求-菲律宾,中等(特定行业),文本,2026-04,Philippines DPA
+数字服务税-印尼,12,%,2025-01,Indonesia VAT System
+数字服务税-泰国,7,%,2026-04,Thailand VAT Bill
+数字服务税-越南,10,%,2026-04,Vietnam VAT on Digital
+数字服务税-菲律宾,12,%,2025,Philippines RA 12023
+平台禁令-游戏版号,无全面禁令,文本,2026-04,综合
+应用商店分成变化-Google Play,20(新安装)/25(已有),%,2026-03,Google Policy Update
+应用商店分成变化-Apple,25(中国区),%,2026-03-15,Apple Developer
+OECD STRI近似评分-印尼,0.25,指数,2026-04,OECD DSTRI估算
+OECD STRI近似评分-泰国,0.18,指数,2026-04,OECD DSTRI估算
+OECD STRI近似评分-越南,0.30,指数,2026-04,OECD DSTRI估算
+OECD STRI近似评分-菲律宾,0.22,指数,2026-04,OECD DSTRI估算
+商务签证-中国公民获批率,14.7,%,2026-01,综合统计
+商务签证-全球平均获批率,28.6,%,2026-01,综合统计
+网络安全指数-印尼,95/100(AI攻击易感性),评分,2026-04,StationX
+网络攻击次数-越南,8437695,次,2026-Q1,Kaspersky
+网络攻击次数-印尼,3014870,次,2026-Q1,Kaspersky
+网络攻击次数-泰国,1200000,次,2026-Q1,Kaspersky
+重大数据泄露事件,印尼政府/金融机构多次泄露,文本,2026-Q1,Adaptist Consulting
